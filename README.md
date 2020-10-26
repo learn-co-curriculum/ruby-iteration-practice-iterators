@@ -216,4 +216,4 @@ Both loops and iterators are powerful tools in Ruby, but they're not right for e
 
 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/intro-to-ruby-iterators'>Intro to Ruby Iterators</a> on Learn.co and start learning to code for free.</p>
+
